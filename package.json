@@ -25,7 +25,7 @@
     "dat-middleware": "^1.10.3",
     "express": "^4.13.0",
     "express-session": "^1.11.3",
-    "form-to-object": "^2.0.0",
+    "form-to-object": "tjmehta/form-to-object#84dd2f8535556376b6807328f6a08325d1fb8add",
     "http-proxy": "^1.11.1",
     "middleware-flow": "^0.8.0",
     "react": "^0.13.3",
